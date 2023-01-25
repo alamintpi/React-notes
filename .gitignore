@@ -4,7 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/src/App.test.js
+/src/reportWebVitals.js
+/src/setupTests.js
 # testing
 /coverage
 
